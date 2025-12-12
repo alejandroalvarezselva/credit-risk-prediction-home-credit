@@ -14,6 +14,7 @@ Este repositorio forma parte de mi formación como **Data Analyst / Data Scienti
 
 Este repositorio contiene el notebook principal del proyecto, junto con los artefactos reproducibles generados en el proceso de modelado:
 
+```text
 credit-risk-prediction-home-credit/
 │
 ├── credit-risk-prediction-home-credit.ipynb      # Notebook principal (EDA + ML + SHAP + scoring)
