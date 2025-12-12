@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="image%20Home%20Credit.png" alt="Home Credit Banner" width="100%">
+</p>
+
+
 # 📌 Credit Risk Prediction – Home Credit
 
 Proyecto de **predicción de riesgo de crédito** utilizando datos reales del caso Home Credit Default Risk.  
