@@ -15,6 +15,21 @@ Este repositorio forma parte de mi formación como **Data Analyst / Data Scienti
 
 ---
 
+## 🚀 Aplicación Web (Streamlit)
+
+Puedes probar la aplicación interactiva del modelo aquí:
+
+👉 **https://credit-risk-prediction-home-credit.streamlit.app**
+
+Esta app permite:
+- Subir un CSV con los datos de los clientes.
+- Aplicar automáticamente el pipeline de preprocesamiento.
+- Obtener la probabilidad estimada de impago (TARGET) para cada registro.
+- Descargar los resultados en formato CSV.
+
+---
+
+
 ## 📁 Estructura del repositorio
 
 Este repositorio contiene el notebook principal del proyecto, junto con los artefactos reproducibles generados en el proceso de modelado:
