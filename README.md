@@ -28,7 +28,7 @@ credit-risk-prediction-home-credit/
 │   └── submission_lightgbm_20251210_1343.csv     # Predicciones finales para test
 │
 └── README.md
-
+---
 
 ## 🎯 Objetivo del proyecto
 
